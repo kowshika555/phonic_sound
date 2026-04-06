@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 The **Phonic Sound** project is an interactive educational web application designed to help users—especially children and beginners—learn the **sounds of English alphabets** in an engaging way.
 
-Phonics focuses on how letters and letter combinations produce sounds, which is essential for improving reading and pronunciation skills. :contentReference[oaicite:0]{index=0}
+Phonics focuses on how letters and letter combinations produce sounds, which is essential for improving reading and pronunciation skills. 
 
 This project provides a simple and user-friendly interface where users can explore and listen to phonetic sounds.
 
