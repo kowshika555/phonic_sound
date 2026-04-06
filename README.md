@@ -1,16 +1,86 @@
-# React + Vite
+# 🔊 Phonic Sound Learning Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Overview
+The **Phonic Sound** project is an interactive educational web application designed to help users—especially children and beginners—learn the **sounds of English alphabets** in an engaging way.
 
-Currently, two official plugins are available:
+Phonics focuses on how letters and letter combinations produce sounds, which is essential for improving reading and pronunciation skills. :contentReference[oaicite:0]{index=0}
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project provides a simple and user-friendly interface where users can explore and listen to phonetic sounds.
 
-## React Compiler
+**Access Project here:** https://kowshika555.github.io/phonic_sound/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
+- 🔤 Learn phonetic sounds of A–Z alphabets  
+- 🔊 Audio-based learning (click to hear sounds)  
+- 🎯 Beginner-friendly interface  
+- 📱 Responsive design (mobile & desktop)  
+- 🎨 Simple and interactive UI  
+- 🧠 Helps improve pronunciation and reading skills  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+- **HTML5** – Structure of the webpage  
+- **CSS3** – Styling and layout  
+- **JavaScript** – Audio handling and interactivity  
+
+---
+
+## 📂 Project Structure
+phonic_sound/
+│── index.html
+|
+│── style.css
+|
+│── script.js
+|
+│── assets/
+│ ├── audio/
+│ └── images/
+
+
+---
+
+## 💡 How It Works
+1. Open the website  
+2. View the list of alphabets  
+3. Click on any letter  
+4. Hear the corresponding phonetic sound  
+5. Practice and repeat for better learning  
+
+---
+
+## 🎯 Purpose of the Project
+- Help beginners learn **English phonics easily**  
+- Improve pronunciation and speaking skills  
+- Provide a **fun learning experience for kids**  
+- Support early education and literacy development  
+
+---
+
+## 🔮 Future Enhancements
+- Add word examples (A for Apple, B for Ball)  
+- Include animations for better engagement  
+- Add quizzes and practice tests  
+- Multi-language support  
+- Voice recognition for pronunciation practice  
+
+---
+
+## 👩‍💻 Author
+**Kowshika**  
+B.Sc Information Technology Student  
+Aspiring Data Analyst & Developer  
+
+---
+
+## 📬 Contact
+- 🌐 Portfolio: https://kowshika555.github.io/Portfolioo/  
+- 💻 GitHub: https://github.com/kowshika555  
+
+---
+
+## ⭐ Conclusion
+The Phonic Sound project demonstrates how web technologies can be used to build an **interactive educational tool** that enhances language learning through audio and visual methods.
